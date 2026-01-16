@@ -38,7 +38,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
       - Connection to SQL Database
   
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+3. **Load the data from Python notebook into MySQL**
 
       - Create a database in SQL
 
