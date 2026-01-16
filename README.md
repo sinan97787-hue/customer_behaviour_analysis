@@ -6,6 +6,8 @@ This project is perfect for:
 - 📚 Anyone learning Python, SQL, and Power BI
 - 💼 Professionals preparing for interviews in Data Analytics, or Product Analytics roles
 
+
+
 ## 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
@@ -17,10 +19,11 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
+![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
 
 ## 🛠️ How to Use This Project
 
-   ```
+
 1. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
     This file contains:
@@ -33,7 +36,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
       - Connection to SQL Database
   
-2. **Load the data from Python notebook into MySQL**
+2. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
 
       - Create a database in SQL
 
@@ -56,5 +59,5 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Build presentation deck using Gamma AI
 
 ## 👨‍💻 About the Author
-Hey, I’m Muhammed sinan ,data analyst intren
+Hey, I’m Muhammed Sinan, a Data Analyst intern.
 
