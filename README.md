@@ -1,4 +1,3 @@
-<img width="1350" height="736" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/e1bcf2d0-6665-4ed5-ae95-7c0b1699702f" />
 # 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
@@ -6,6 +5,8 @@ This project is perfect for:
 - 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
 - 📚 Anyone learning Python, SQL, and Power BI
 - 💼 Professionals preparing for interviews in Data Analytics, or Product Analytics roles
+
+<img width="1350" height="736" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/e1bcf2d0-6665-4ed5-ae95-7c0b1699702f" />
 
 
 
